@@ -1,0 +1,18 @@
+login.html
+
+
+<html>
+    <head>
+        <title>Student access System</title>
+    </head>
+    <body>
+        <h1>Login</h1>
+        <hr>
+        <form action="#">
+            <input type="text" name="username" placeholder="Enter username"><br><br>
+            <input type="password" name="password" placeholder="Enter password"><br><br>
+            <button>Login</button><br><br>
+            New user? <a href="#">Register here</a>
+        </form>
+    </body>
+</html>
